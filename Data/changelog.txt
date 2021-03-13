@@ -1,0 +1,50 @@
+V5.6.4 (May 16th, 2019):
+▔▔▔▔▔▔▔▔▔▔▔
+Manager App:
+ • Token Updates
+
+V5.6.2 (April 9th, 2019):
+▔▔▔▔▔▔▔▔▔▔▔
+Manager App:
+ • Adjust for more conservative nest throttling
+
+V5.6.1 (March 29th, 2019):
+▔▔▔▔▔▔▔▔▔▔▔
+Manager App:
+ • REMOVED: Local rest stream support (Until ST restores the feature)
+ • UPDATED: Simplified exception report logic.
+
+V5.5.6 (November 14th, 2018):
+▔▔▔▔▔▔▔▔▔▔▔
+Manager App:
+ • Enabled Echo Speaks device support for Voice Notifications
+ • FIXED: Bug Fixes
+
+Automation App 5.4.7:
+ • FIXED: Bug Fixes
+
+V5.5.2 (September 9th, 2018):
+▔▔▔▔▔▔▔▔▔▔▔
+Manager App:
+ • Enabled new camera options
+ • FIXED: Bug Fixes
+
+Automation App 5.4.5:
+ • FIXED: Bug Fixes
+
+V5.5.1 (September 8th, 2018):
+▔▔▔▔▔▔▔▔▔▔▔
+Manager App:
+ • FIXED: Bug Fixes
+
+Automation App 5.4.4:
+ • FIXED: Bug Fixes
+
+V5.5.0 (August 28th, 2018):
+▔▔▔▔▔▔▔▔▔▔▔
+Manager App:
+ • UPDATED: NST Streaming is now communicates via local network (when enabled)
+ • FIXED: Bug Fixes
+
+Automation App 5.4.3:
+ • FIXED: Bug Fixes
